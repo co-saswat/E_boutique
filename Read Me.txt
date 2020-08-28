@@ -1,0 +1,13 @@
+Admin Page 
+username admin
+password admin1234
+
+Contact 
+email: supersonu086@gmail.com
+
+
+DATABASE
+open php myadmin in xamp
+create a database in the name of db_ecommerce
+and then import the file db_ecommerce.sql
+and run the program
